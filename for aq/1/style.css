@@ -1,0 +1,13 @@
+body{
+    font-family:sans-serif;
+    background-repeat: no-repeat;
+    background-color: blue;
+}
+.container{
+    width: 380px;
+    margin: 7% auto;
+}
+.header{
+    text-align:center;
+    padding: auto;
+}
